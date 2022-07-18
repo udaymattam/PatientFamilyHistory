@@ -7,7 +7,8 @@ React patient Application in that:
 - We can create, retrieve, update, delete patients.
 - There is a Search bar for finding patients by title.
 
-### Set port
+
+### Set port for
 .env
 ```
 PORT=8081
