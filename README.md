@@ -5,7 +5,7 @@ Build a React.js Patient Application to consume Web API, display and modify data
 React patient Application in that:
 - Each patient has id, title, description, patient status.
 - We can create, retrieve, update, delete patients.
-- There is a Search bar for finding patients by title.
+- There is a Search bar for finding patients by title...
 
 
 ### Set port for
